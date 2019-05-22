@@ -201,7 +201,7 @@ class Readme:
                    'while **{}** are still locked.' \
                    '\n\nCompletion statistic: ' \
                    '\n1. JavaScript: {javascript} ' \
-                   '\n\nNote: :lock: means you need to buy a book from LeetCode\n'.format(
+                   '\n\nNote: :lock: means you need to buy a book from LeetCode  \n'.format(
                     self.time, self.solved, self.total, self.locked, **self.others)
 
     def create_leetcode_readme(self, table_instance):
@@ -213,12 +213,12 @@ class Readme:
         # write some basic inform about leetcode
         with open(file_path, 'w') as f:
             f.write(self.msg)
-            f.write('\n----------------\n')
+            f.write('  \n----------------  \n')
 
         with open(file_path, 'a') as f:
             f.write('## LeetCode Solution Table\n')
             # f.write('| ID | Title | Difficulty | JavaScript | Python | C++ | Java |\n')
-            f.write('| ID | Title | Difficulty | pass | JavaScript  | \n')
+            f.write('| ID | Title | Difficulty | pass | JavaScript  |  \n')
             f.write('|:---:' * 8 + '|\n')
             table, table_item = table_instance
             for index in table:
@@ -237,7 +237,7 @@ class Readme:
                     # 'c++': item.c_plus_plus if item.c_plus_plus else 'To Do',
                     # 'java': item.java if item.java else 'To Do'
                 }
-                line = '|{id}|{title}|{difficulty}|{pass}|{js}|\n'.format(**data)
+                line = '|{id}|{title}|{difficulty}|{pass}|{js}|  \n'.format(**data)
                 f.write(line)
             print('README.md was created.....')
 
