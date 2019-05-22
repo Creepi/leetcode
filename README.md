@@ -8,7 +8,7 @@ Note: :lock: means you need to buy a book from LeetCode
   
 ----------------  
 ## LeetCode Solution Table
-| ID | Title | Difficulty | pass | JavaScript  |  
+| ID | Title | Difficulty | pass | JavaScript |  
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |001|[Two Sum](https://leetcode-cn.com/problems/two-sum/description/) |Easy|46%|[JavaScript](https://github.com/Creepi/leetcode/leetcode-algorithms//001.%20Two%20Sum/solution.js)|  
 |002|[Add Two Numbers](https://leetcode-cn.com/problems/add-two-numbers/description/) |Medium|34%|To Do|  
