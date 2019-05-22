@@ -14,9 +14,9 @@ class Config:
     """
     local_path = '/Users/creepiz/Documents/Github/leetcode'
     # solution of leetcode
-    github_leetcode_url = 'https://github.com/Creepi/leetcode/leetcode-algorithms//'
+    github_leetcode_url = 'https://github.com/Creepi/leetcode/blob/master/leetcode-algorithms/'
     # solution of pat,&emsp;暂时还没写
-    github_pat_url = 'https://github.com/Creepi/leetcode/leetcode-pat_url/'
+    github_pat_url = 'https://github.com/Creepi/leetcode/blob/master/leetcode-pat/'
     leetcode_url = 'https://leetcode-cn.com/problems/'
 
 class Question:
@@ -75,7 +75,7 @@ class TableInform:
             url = question['stat']['question__title_slug']
             id_ = str(question['stat']['frontend_question_id'])
             if int(question['stat']['total_acs']) == 0:
-                pass_ = 0
+                pass_ = '0%'
             else:      
                 pass_ = str(round(100*question['stat']['total_acs']/question['stat']['total_submitted'])) + "%"
             if int(id_) < 10:
@@ -196,7 +196,7 @@ class Readme:
         self.locked = locked
         self.pass_ = pass_
         self.time = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
-        self.msg = '# Keep thinking, keep alive\n' \
+        self.msg = '# Le vent se lève, il faut tenter de vivre.\n' \
                    'Until {}, I have solved **{}** / **{}** problems ' \
                    'while **{}** are still locked.' \
                    '\n\nCompletion statistic: ' \
