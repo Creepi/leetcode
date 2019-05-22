@@ -218,8 +218,8 @@ class Readme:
         with open(file_path, 'a') as f:
             f.write('## LeetCode Solution Table\n')
             # f.write('| ID | Title | Difficulty | JavaScript | Python | C++ | Java |\n')
-            f.write('| ID | Title | Difficulty | pass | JavaScript  |  \n')
-            f.write('|:---:' * 8 + '|\n')
+            f.write('| ID | Title | Difficulty | Pass | JavaScript |  \n')
+            f.write('|:---:' * 5 + '|\n')
             table, table_item = table_instance
             for index in table:
                 item = table_item[index]
