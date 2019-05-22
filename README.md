@@ -1,8 +1,8 @@
 # Le vent se lève, il faut tenter de vivre.
-Until 2019-05-22 16:48:16, I have solved **4** / **995** problems while **140** are still locked.
+Until 2019-05-22 16:51:11, I have solved **5** / **995** problems while **140** are still locked.
 
 Completion statistic: 
-1. JavaScript: 4 
+1. JavaScript: 5 
 
 Note: :lock: means you need to buy a book from LeetCode  
   
@@ -16,7 +16,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |004|[Median of Two Sorted Arrays](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/description/) |Hard|35%|To Do|  
 |005|[Longest Palindromic Substring](https://leetcode-cn.com/problems/longest-palindromic-substring/description/) |Medium|25%|To Do|  
 |006|[ZigZag Conversion](https://leetcode-cn.com/problems/zigzag-conversion/description/) |Medium|43%|To Do|  
-|007|[Reverse Integer](https://leetcode-cn.com/problems/reverse-integer/description/) |Easy|32%|To Do|  
+|007|[Reverse Integer](https://leetcode-cn.com/problems/reverse-integer/description/) |Easy|32%|[JavaScript](https://github.com/Creepi/leetcode/blob/master/leetcode-algorithms/007.%20Reverse%20Integer/solution.js)|  
 |008|[String to Integer (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/description/) |Medium|17%|To Do|  
 |009|[Palindrome Number](https://leetcode-cn.com/problems/palindrome-number/description/) |Easy|56%|To Do|  
 |010|[Regular Expression Matching](https://leetcode-cn.com/problems/regular-expression-matching/description/) |Hard|23%|To Do|  
