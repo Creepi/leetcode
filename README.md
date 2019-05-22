@@ -1,8 +1,8 @@
 # Le vent se lève, il faut tenter de vivre.
-Until 2019-05-22 16:36:19, I have solved **2** / **995** problems while **140** are still locked.
+Until 2019-05-22 16:40:47, I have solved **3** / **995** problems while **140** are still locked.
 
 Completion statistic: 
-1. JavaScript: 2 
+1. JavaScript: 3 
 
 Note: :lock: means you need to buy a book from LeetCode  
   
@@ -51,7 +51,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |039|[Combination Sum](https://leetcode-cn.com/problems/combination-sum/description/) |Medium|65%|To Do|  
 |040|[Combination Sum II](https://leetcode-cn.com/problems/combination-sum-ii/description/) |Medium|55%|To Do|  
 |041|[First Missing Positive](https://leetcode-cn.com/problems/first-missing-positive/description/) |Hard|35%|To Do|  
-|042|[Trapping Rain Water](https://leetcode-cn.com/problems/trapping-rain-water/description/) |Hard|44%|To Do|  
+|042|[Trapping Rain Water](https://leetcode-cn.com/problems/trapping-rain-water/description/) |Hard|44%|[JavaScript](https://github.com/Creepi/leetcode/blob/master/leetcode-algorithms/042.%20Trapping%20Rain%20Water/solution.js)|  
 |043|[Multiply Strings](https://leetcode-cn.com/problems/multiply-strings/description/) |Medium|39%|To Do|  
 |044|[Wildcard Matching](https://leetcode-cn.com/problems/wildcard-matching/description/) |Hard|23%|To Do|  
 |045|[Jump Game II](https://leetcode-cn.com/problems/jump-game-ii/description/) |Hard|30%|To Do|  
