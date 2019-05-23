@@ -12,7 +12,7 @@ class Config:
     １．&emsp;本地仓库的的路径
     ２．&emsp;github中的仓库leetcode解法的路径
     """
-    local_path = '/Users/creepiz/Documents/Github/leetcode'
+    local_path = '/Users/creepiz/Documents/Projects/Github/leetcode'
     # solution of leetcode
     github_leetcode_url = 'https://github.com/Creepi/leetcode/blob/master/leetcode-algorithms/'
     # solution of pat,&emsp;暂时还没写

@@ -1,8 +1,8 @@
 # Le vent se lève, il faut tenter de vivre.
-Until 2019-05-22 16:51:11, I have solved **5** / **995** problems while **140** are still locked.
+Until 2019-05-23 19:00:04, I have solved **6** / **995** problems while **140** are still locked.
 
 Completion statistic: 
-1. JavaScript: 5 
+1. JavaScript: 6 
 
 Note: :lock: means you need to buy a book from LeetCode  
   
@@ -18,7 +18,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |006|[ZigZag Conversion](https://leetcode-cn.com/problems/zigzag-conversion/description/) |Medium|43%|To Do|  
 |007|[Reverse Integer](https://leetcode-cn.com/problems/reverse-integer/description/) |Easy|32%|[JavaScript](https://github.com/Creepi/leetcode/blob/master/leetcode-algorithms/007.%20Reverse%20Integer/solution.js)|  
 |008|[String to Integer (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/description/) |Medium|17%|To Do|  
-|009|[Palindrome Number](https://leetcode-cn.com/problems/palindrome-number/description/) |Easy|56%|To Do|  
+|009|[Palindrome Number](https://leetcode-cn.com/problems/palindrome-number/description/) |Easy|56%|[JavaScript](https://github.com/Creepi/leetcode/blob/master/leetcode-algorithms/009.%20Palindrome%20Number/9.回文数.js)|  
 |010|[Regular Expression Matching](https://leetcode-cn.com/problems/regular-expression-matching/description/) |Hard|23%|To Do|  
 |011|[Container With Most Water](https://leetcode-cn.com/problems/container-with-most-water/description/) |Medium|56%|To Do|  
 |012|[Integer to Roman](https://leetcode-cn.com/problems/integer-to-roman/description/) |Medium|59%|To Do|  
@@ -86,7 +86,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |074|[Search a 2D Matrix](https://leetcode-cn.com/problems/search-a-2d-matrix/description/) |Medium|35%|To Do|  
 |075|[Sort Colors](https://leetcode-cn.com/problems/sort-colors/description/) |Medium|52%|To Do|  
 |076|[Minimum Window Substring](https://leetcode-cn.com/problems/minimum-window-substring/description/) |Hard|35%|To Do|  
-|077|[Combinations](https://leetcode-cn.com/problems/combinations/description/) |Medium|67%|To Do|  
+|077|[Combinations](https://leetcode-cn.com/problems/combinations/description/) |Medium|68%|To Do|  
 |078|[Subsets](https://leetcode-cn.com/problems/subsets/description/) |Medium|73%|To Do|  
 |079|[Word Search](https://leetcode-cn.com/problems/word-search/description/) |Medium|37%|To Do|  
 |080|[Remove Duplicates from Sorted Array II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/description/) |Medium|50%|To Do|  
@@ -110,7 +110,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |098|[Validate Binary Search Tree](https://leetcode-cn.com/problems/validate-binary-search-tree/description/) |Medium|26%|To Do|  
 |099|[Recover Binary Search Tree](https://leetcode-cn.com/problems/recover-binary-search-tree/description/) |Hard|54%|To Do|  
 |100|[Same Tree](https://leetcode-cn.com/problems/same-tree/description/) |Easy|53%|To Do|  
-|101|[Symmetric Tree](https://leetcode-cn.com/problems/symmetric-tree/description/) |Easy|46%|To Do|  
+|101|[Symmetric Tree](https://leetcode-cn.com/problems/symmetric-tree/description/) |Easy|47%|To Do|  
 |102|[Binary Tree Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/description/) |Medium|56%|To Do|  
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/description/) |Medium|49%|To Do|  
 |104|[Maximum Depth of Binary Tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/description/) |Easy|69%|To Do|  
@@ -143,7 +143,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |131|[Palindrome Partitioning](https://leetcode-cn.com/problems/palindrome-partitioning/description/) |Medium|62%|To Do|  
 |132|[Palindrome Partitioning II](https://leetcode-cn.com/problems/palindrome-partitioning-ii/description/) |Hard|38%|To Do|  
 |133|[Clone Graph](https://leetcode-cn.com/problems/clone-graph/description/) |Medium|30%|To Do|  
-|134|[Gas Station](https://leetcode-cn.com/problems/gas-station/description/) |Medium|46%|To Do|  
+|134|[Gas Station](https://leetcode-cn.com/problems/gas-station/description/) |Medium|47%|To Do|  
 |135|[Candy](https://leetcode-cn.com/problems/candy/description/) |Hard|40%|To Do|  
 |136|[Single Number](https://leetcode-cn.com/problems/single-number/description/) |Easy|61%|To Do|  
 |137|[Single Number II](https://leetcode-cn.com/problems/single-number-ii/description/) |Medium|64%|To Do|  
@@ -156,7 +156,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |144|[Binary Tree Preorder Traversal](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/description/) |Medium|60%|To Do|  
 |145|[Binary Tree Postorder Traversal](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/description/) |Hard|65%|To Do|  
 |146|[LRU Cache](https://leetcode-cn.com/problems/lru-cache/description/) |Hard|41%|To Do|  
-|147|[Insertion Sort List](https://leetcode-cn.com/problems/insertion-sort-list/description/) |Medium|57%|To Do|  
+|147|[Insertion Sort List](https://leetcode-cn.com/problems/insertion-sort-list/description/) |Medium|58%|To Do|  
 |148|[Sort List](https://leetcode-cn.com/problems/sort-list/description/) |Medium|60%|To Do|  
 |149|[Max Points on a Line](https://leetcode-cn.com/problems/max-points-on-a-line/description/) |Hard|17%|To Do|  
 |150|[Evaluate Reverse Polish Notation](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/description/) |Medium|44%|To Do|  
@@ -165,29 +165,29 @@ Note: :lock: means you need to buy a book from LeetCode
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/description/) |Medium|49%|To Do|  
 |154|[Find Minimum in Rotated Sorted Array II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/description/) |Hard|44%|To Do|  
 |155|[Min Stack](https://leetcode-cn.com/problems/min-stack/description/) |Easy|49%|To Do|  
-|156|[Binary Tree Upside Down](https://leetcode-cn.com/problems/binary-tree-upside-down/description/) :lock:|Medium|50%|To Do|  
-|157|[Read N Characters Given Read4](https://leetcode-cn.com/problems/read-n-characters-given-read4/description/) :lock:|Easy|25%|To Do|  
+|156|[Binary Tree Upside Down](https://leetcode-cn.com/problems/binary-tree-upside-down/description/) :lock:|Medium|55%|To Do|  
+|157|[Read N Characters Given Read4](https://leetcode-cn.com/problems/read-n-characters-given-read4/description/) :lock:|Easy|47%|To Do|  
 |158|[Read N Characters Given Read4 II - Call multiple times](https://leetcode-cn.com/problems/read-n-characters-given-read4-ii-call-multiple-times/description/) :lock:|Hard|0%|To Do|  
-|159|[Longest Substring with At Most Two Distinct Characters](https://leetcode-cn.com/problems/longest-substring-with-at-most-two-distinct-characters/description/) :lock:|Hard|0%|To Do|  
+|159|[Longest Substring with At Most Two Distinct Characters](https://leetcode-cn.com/problems/longest-substring-with-at-most-two-distinct-characters/description/) :lock:|Hard|86%|To Do|  
 |160|[Intersection of Two Linked Lists](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/description/) |Easy|43%|To Do|  
-|161|[One Edit Distance](https://leetcode-cn.com/problems/one-edit-distance/description/) :lock:|Medium|17%|To Do|  
+|161|[One Edit Distance](https://leetcode-cn.com/problems/one-edit-distance/description/) :lock:|Medium|22%|To Do|  
 |162|[Find Peak Element](https://leetcode-cn.com/problems/find-peak-element/description/) |Medium|40%|To Do|  
-|163|[Missing Ranges](https://leetcode-cn.com/problems/missing-ranges/description/) :lock:|Medium|12%|To Do|  
+|163|[Missing Ranges](https://leetcode-cn.com/problems/missing-ranges/description/) :lock:|Medium|17%|To Do|  
 |164|[Maximum Gap](https://leetcode-cn.com/problems/maximum-gap/description/) |Hard|50%|To Do|  
 |165|[Compare Version Numbers](https://leetcode-cn.com/problems/compare-version-numbers/description/) |Medium|30%|To Do|  
 |166|[Fraction to Recurring Decimal](https://leetcode-cn.com/problems/fraction-to-recurring-decimal/description/) |Medium|24%|To Do|  
 |167|[Two Sum II - Input array is sorted](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/description/) |Easy|49%|To Do|  
 |168|[Excel Sheet Column Title](https://leetcode-cn.com/problems/excel-sheet-column-title/description/) |Easy|32%|To Do|  
 |169|[Majority Element](https://leetcode-cn.com/problems/majority-element/description/) |Easy|59%|To Do|  
-|170|[Two Sum III - Data structure design](https://leetcode-cn.com/problems/two-sum-iii-data-structure-design/description/) :lock:|Easy|33%|To Do|  
+|170|[Two Sum III - Data structure design](https://leetcode-cn.com/problems/two-sum-iii-data-structure-design/description/) :lock:|Easy|42%|To Do|  
 |171|[Excel Sheet Column Number](https://leetcode-cn.com/problems/excel-sheet-column-number/description/) |Easy|64%|To Do|  
 |172|[Factorial Trailing Zeroes](https://leetcode-cn.com/problems/factorial-trailing-zeroes/description/) |Easy|38%|To Do|  
 |173|[Binary Search Tree Iterator](https://leetcode-cn.com/problems/binary-search-tree-iterator/description/) |Medium|62%|To Do|  
 |174|[Dungeon Game](https://leetcode-cn.com/problems/dungeon-game/description/) |Hard|35%|To Do|  
 |179|[Largest Number](https://leetcode-cn.com/problems/largest-number/description/) |Medium|32%|To Do|  
-|186|[Reverse Words in a String II](https://leetcode-cn.com/problems/reverse-words-in-a-string-ii/description/) :lock:|Medium|0%|To Do|  
+|186|[Reverse Words in a String II](https://leetcode-cn.com/problems/reverse-words-in-a-string-ii/description/) :lock:|Medium|83%|To Do|  
 |187|[Repeated DNA Sequences](https://leetcode-cn.com/problems/repeated-dna-sequences/description/) |Medium|42%|To Do|  
-|188|[Best Time to Buy and Sell Stock IV](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv/description/) |Hard|28%|To Do|  
+|188|[Best Time to Buy and Sell Stock IV](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv/description/) |Hard|27%|To Do|  
 |189|[Rotate Array](https://leetcode-cn.com/problems/rotate-array/description/) |Easy|37%|To Do|  
 |190|[Reverse Bits](https://leetcode-cn.com/problems/reverse-bits/description/) |Easy|41%|To Do|  
 |191|[Number of 1 Bits](https://leetcode-cn.com/problems/number-of-1-bits/description/) |Easy|53%|To Do|  
@@ -211,7 +211,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |215|[Kth Largest Element in an Array](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/description/) |Medium|57%|To Do|  
 |216|[Combination Sum III](https://leetcode-cn.com/problems/combination-sum-iii/description/) |Medium|67%|To Do|  
 |217|[Contains Duplicate](https://leetcode-cn.com/problems/contains-duplicate/description/) |Easy|48%|To Do|  
-|218|[The Skyline Problem](https://leetcode-cn.com/problems/the-skyline-problem/description/) |Hard|38%|To Do|  
+|218|[The Skyline Problem](https://leetcode-cn.com/problems/the-skyline-problem/description/) |Hard|37%|To Do|  
 |219|[Contains Duplicate II](https://leetcode-cn.com/problems/contains-duplicate-ii/description/) |Easy|34%|To Do|  
 |220|[Contains Duplicate III](https://leetcode-cn.com/problems/contains-duplicate-iii/description/) |Medium|24%|To Do|  
 |221|[Maximal Square](https://leetcode-cn.com/problems/maximal-square/description/) |Medium|37%|To Do|  
@@ -220,7 +220,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |224|[Basic Calculator](https://leetcode-cn.com/problems/basic-calculator/description/) |Hard|32%|To Do|  
 |225|[Implement Stack using Queues](https://leetcode-cn.com/problems/implement-stack-using-queues/description/) |Easy|59%|To Do|  
 |226|[Invert Binary Tree](https://leetcode-cn.com/problems/invert-binary-tree/description/) |Easy|70%|To Do|  
-|227|[Basic Calculator II](https://leetcode-cn.com/problems/basic-calculator-ii/description/) |Medium|31%|To Do|  
+|227|[Basic Calculator II](https://leetcode-cn.com/problems/basic-calculator-ii/description/) |Medium|32%|To Do|  
 |228|[Summary Ranges](https://leetcode-cn.com/problems/summary-ranges/description/) |Medium|47%|To Do|  
 |229|[Majority Element II](https://leetcode-cn.com/problems/majority-element-ii/description/) |Medium|40%|To Do|  
 |230|[Kth Smallest Element in a BST](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/description/) |Medium|64%|To Do|  
@@ -236,40 +236,40 @@ Note: :lock: means you need to buy a book from LeetCode
 |240|[Search a 2D Matrix II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/description/) |Medium|37%|To Do|  
 |241|[Different Ways to Add Parentheses](https://leetcode-cn.com/problems/different-ways-to-add-parentheses/description/) |Medium|67%|To Do|  
 |242|[Valid Anagram](https://leetcode-cn.com/problems/valid-anagram/description/) |Easy|53%|To Do|  
-|243|[Shortest Word Distance](https://leetcode-cn.com/problems/shortest-word-distance/description/) :lock:|Easy|79%|To Do|  
-|244|[Shortest Word Distance II](https://leetcode-cn.com/problems/shortest-word-distance-ii/description/) :lock:|Medium|100%|To Do|  
-|245|[Shortest Word Distance III](https://leetcode-cn.com/problems/shortest-word-distance-iii/description/) :lock:|Medium|100%|To Do|  
-|246|[Strobogrammatic Number](https://leetcode-cn.com/problems/strobogrammatic-number/description/) :lock:|Easy|35%|To Do|  
-|247|[Strobogrammatic Number II](https://leetcode-cn.com/problems/strobogrammatic-number-ii/description/) :lock:|Medium|100%|To Do|  
+|243|[Shortest Word Distance](https://leetcode-cn.com/problems/shortest-word-distance/description/) :lock:|Easy|62%|To Do|  
+|244|[Shortest Word Distance II](https://leetcode-cn.com/problems/shortest-word-distance-ii/description/) :lock:|Medium|80%|To Do|  
+|245|[Shortest Word Distance III](https://leetcode-cn.com/problems/shortest-word-distance-iii/description/) :lock:|Medium|75%|To Do|  
+|246|[Strobogrammatic Number](https://leetcode-cn.com/problems/strobogrammatic-number/description/) :lock:|Easy|36%|To Do|  
+|247|[Strobogrammatic Number II](https://leetcode-cn.com/problems/strobogrammatic-number-ii/description/) :lock:|Medium|44%|To Do|  
 |248|[Strobogrammatic Number III](https://leetcode-cn.com/problems/strobogrammatic-number-iii/description/) :lock:|Hard|0%|To Do|  
-|249|[Group Shifted Strings](https://leetcode-cn.com/problems/group-shifted-strings/description/) :lock:|Medium|100%|To Do|  
-|250|[Count Univalue Subtrees](https://leetcode-cn.com/problems/count-univalue-subtrees/description/) :lock:|Medium|50%|To Do|  
-|251|[Flatten 2D Vector](https://leetcode-cn.com/problems/flatten-2d-vector/description/) :lock:|Medium|100%|To Do|  
+|249|[Group Shifted Strings](https://leetcode-cn.com/problems/group-shifted-strings/description/) :lock:|Medium|80%|To Do|  
+|250|[Count Univalue Subtrees](https://leetcode-cn.com/problems/count-univalue-subtrees/description/) :lock:|Medium|38%|To Do|  
+|251|[Flatten 2D Vector](https://leetcode-cn.com/problems/flatten-2d-vector/description/) :lock:|Medium|45%|To Do|  
 |252|[Meeting Rooms](https://leetcode-cn.com/problems/meeting-rooms/description/) :lock:|Easy|53%|To Do|  
-|253|[Meeting Rooms II](https://leetcode-cn.com/problems/meeting-rooms-ii/description/) :lock:|Medium|27%|To Do|  
+|253|[Meeting Rooms II](https://leetcode-cn.com/problems/meeting-rooms-ii/description/) :lock:|Medium|30%|To Do|  
 |254|[Factor Combinations](https://leetcode-cn.com/problems/factor-combinations/description/) :lock:|Medium|100%|To Do|  
 |255|[Verify Preorder Sequence in Binary Search Tree](https://leetcode-cn.com/problems/verify-preorder-sequence-in-binary-search-tree/description/) :lock:|Medium|33%|To Do|  
-|256|[Paint House](https://leetcode-cn.com/problems/paint-house/description/) :lock:|Easy|67%|To Do|  
+|256|[Paint House](https://leetcode-cn.com/problems/paint-house/description/) :lock:|Easy|50%|To Do|  
 |257|[Binary Tree Paths](https://leetcode-cn.com/problems/binary-tree-paths/description/) |Easy|58%|To Do|  
 |258|[Add Digits](https://leetcode-cn.com/problems/add-digits/description/) |Easy|63%|To Do|  
-|259|[3Sum Smaller](https://leetcode-cn.com/problems/3sum-smaller/description/) :lock:|Medium|57%|To Do|  
+|259|[3Sum Smaller](https://leetcode-cn.com/problems/3sum-smaller/description/) :lock:|Medium|70%|To Do|  
 |260|[Single Number III](https://leetcode-cn.com/problems/single-number-iii/description/) |Medium|64%|To Do|  
 |261|[Graph Valid Tree](https://leetcode-cn.com/problems/graph-valid-tree/description/) :lock:|Medium|50%|To Do|  
 |263|[Ugly Number](https://leetcode-cn.com/problems/ugly-number/description/) |Easy|46%|To Do|  
-|264|[Ugly Number II](https://leetcode-cn.com/problems/ugly-number-ii/description/) |Medium|44%|To Do|  
-|265|[Paint House II](https://leetcode-cn.com/problems/paint-house-ii/description/) :lock:|Hard|33%|To Do|  
-|266|[Palindrome Permutation](https://leetcode-cn.com/problems/palindrome-permutation/description/) :lock:|Easy|88%|To Do|  
-|267|[Palindrome Permutation II](https://leetcode-cn.com/problems/palindrome-permutation-ii/description/) :lock:|Medium|0%|To Do|  
+|264|[Ugly Number II](https://leetcode-cn.com/problems/ugly-number-ii/description/) |Medium|45%|To Do|  
+|265|[Paint House II](https://leetcode-cn.com/problems/paint-house-ii/description/) :lock:|Hard|60%|To Do|  
+|266|[Palindrome Permutation](https://leetcode-cn.com/problems/palindrome-permutation/description/) :lock:|Easy|82%|To Do|  
+|267|[Palindrome Permutation II](https://leetcode-cn.com/problems/palindrome-permutation-ii/description/) :lock:|Medium|100%|To Do|  
 |268|[Missing Number](https://leetcode-cn.com/problems/missing-number/description/) |Easy|50%|To Do|  
-|269|[Alien Dictionary](https://leetcode-cn.com/problems/alien-dictionary/description/) :lock:|Hard|0%|To Do|  
-|270|[Closest Binary Search Tree Value](https://leetcode-cn.com/problems/closest-binary-search-tree-value/description/) :lock:|Easy|43%|To Do|  
+|269|[Alien Dictionary](https://leetcode-cn.com/problems/alien-dictionary/description/) :lock:|Hard|17%|To Do|  
+|270|[Closest Binary Search Tree Value](https://leetcode-cn.com/problems/closest-binary-search-tree-value/description/) :lock:|Easy|38%|To Do|  
 |271|[Encode and Decode Strings](https://leetcode-cn.com/problems/encode-and-decode-strings/description/) :lock:|Medium|0%|To Do|  
-|272|[Closest Binary Search Tree Value II](https://leetcode-cn.com/problems/closest-binary-search-tree-value-ii/description/) :lock:|Hard|0%|To Do|  
+|272|[Closest Binary Search Tree Value II](https://leetcode-cn.com/problems/closest-binary-search-tree-value-ii/description/) :lock:|Hard|50%|To Do|  
 |273|[Integer to English Words](https://leetcode-cn.com/problems/integer-to-english-words/description/) |Hard|22%|To Do|  
 |274|[H-Index](https://leetcode-cn.com/problems/h-index/description/) |Medium|34%|To Do|  
 |275|[H-Index II](https://leetcode-cn.com/problems/h-index-ii/description/) |Medium|38%|To Do|  
-|276|[Paint Fence](https://leetcode-cn.com/problems/paint-fence/description/) :lock:|Easy|57%|To Do|  
-|277|[Find the Celebrity](https://leetcode-cn.com/problems/find-the-celebrity/description/) :lock:|Medium|20%|To Do|  
+|276|[Paint Fence](https://leetcode-cn.com/problems/paint-fence/description/) :lock:|Easy|64%|To Do|  
+|277|[Find the Celebrity](https://leetcode-cn.com/problems/find-the-celebrity/description/) :lock:|Medium|25%|To Do|  
 |278|[First Bad Version](https://leetcode-cn.com/problems/first-bad-version/description/) |Easy|31%|To Do|  
 |279|[Perfect Squares](https://leetcode-cn.com/problems/perfect-squares/description/) |Medium|49%|To Do|  
 |280|[Wiggle Sort](https://leetcode-cn.com/problems/wiggle-sort/description/) :lock:|Medium|0%|To Do|  
@@ -277,8 +277,8 @@ Note: :lock: means you need to buy a book from LeetCode
 |282|[Expression Add Operators](https://leetcode-cn.com/problems/expression-add-operators/description/) |Hard|30%|To Do|  
 |283|[Move Zeroes](https://leetcode-cn.com/problems/move-zeroes/description/) |Easy|54%|To Do|  
 |284|[Peeking Iterator](https://leetcode-cn.com/problems/peeking-iterator/description/) |Medium|67%|To Do|  
-|285|[Inorder Successor in BST](https://leetcode-cn.com/problems/inorder-successor-in-bst/description/) :lock:|Medium|0%|To Do|  
-|286|[Walls and Gates](https://leetcode-cn.com/problems/walls-and-gates/description/) :lock:|Medium|100%|To Do|  
+|285|[Inorder Successor in BST](https://leetcode-cn.com/problems/inorder-successor-in-bst/description/) :lock:|Medium|100%|To Do|  
+|286|[Walls and Gates](https://leetcode-cn.com/problems/walls-and-gates/description/) :lock:|Medium|57%|To Do|  
 |287|[Find the Duplicate Number](https://leetcode-cn.com/problems/find-the-duplicate-number/description/) |Medium|59%|To Do|  
 |288|[Unique Word Abbreviation](https://leetcode-cn.com/problems/unique-word-abbreviation/description/) :lock:|Medium|0%|To Do|  
 |289|[Game of Life](https://leetcode-cn.com/problems/game-of-life/description/) |Medium|62%|To Do|  
@@ -306,7 +306,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |311|[Sparse Matrix Multiplication](https://leetcode-cn.com/problems/sparse-matrix-multiplication/description/) :lock:|Medium|0%|To Do|  
 |312|[Burst Balloons](https://leetcode-cn.com/problems/burst-balloons/description/) |Hard|54%|To Do|  
 |313|[Super Ugly Number](https://leetcode-cn.com/problems/super-ugly-number/description/) |Medium|54%|To Do|  
-|314|[Binary Tree Vertical Order Traversal](https://leetcode-cn.com/problems/binary-tree-vertical-order-traversal/description/) :lock:|Medium|0%|To Do|  
+|314|[Binary Tree Vertical Order Traversal](https://leetcode-cn.com/problems/binary-tree-vertical-order-traversal/description/) :lock:|Medium|50%|To Do|  
 |315|[Count of Smaller Numbers After Self](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self/description/) |Hard|38%|To Do|  
 |316|[Remove Duplicate Letters](https://leetcode-cn.com/problems/remove-duplicate-letters/description/) |Hard|30%|To Do|  
 |317|[Shortest Distance from All Buildings](https://leetcode-cn.com/problems/shortest-distance-from-all-buildings/description/) :lock:|Hard|0%|To Do|  
@@ -315,7 +315,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |320|[Generalized Abbreviation](https://leetcode-cn.com/problems/generalized-abbreviation/description/) :lock:|Medium|0%|To Do|  
 |321|[Create Maximum Number](https://leetcode-cn.com/problems/create-maximum-number/description/) |Hard|25%|To Do|  
 |322|[Coin Change](https://leetcode-cn.com/problems/coin-change/description/) |Medium|32%|To Do|  
-|323|[Number of Connected Components in an Undirected Graph](https://leetcode-cn.com/problems/number-of-connected-components-in-an-undirected-graph/description/) :lock:|Medium|80%|To Do|  
+|323|[Number of Connected Components in an Undirected Graph](https://leetcode-cn.com/problems/number-of-connected-components-in-an-undirected-graph/description/) :lock:|Medium|89%|To Do|  
 |324|[Wiggle Sort II](https://leetcode-cn.com/problems/wiggle-sort-ii/description/) |Medium|31%|To Do|  
 |325|[Maximum Size Subarray Sum Equals k](https://leetcode-cn.com/problems/maximum-size-subarray-sum-equals-k/description/) :lock:|Medium|0%|To Do|  
 |326|[Power of Three](https://leetcode-cn.com/problems/power-of-three/description/) |Easy|44%|To Do|  
@@ -325,7 +325,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |330|[Patching Array](https://leetcode-cn.com/problems/patching-array/description/) |Hard|39%|To Do|  
 |331|[Verify Preorder Serialization of a Binary Tree](https://leetcode-cn.com/problems/verify-preorder-serialization-of-a-binary-tree/description/) |Medium|42%|To Do|  
 |332|[Reconstruct Itinerary](https://leetcode-cn.com/problems/reconstruct-itinerary/description/) |Medium|30%|To Do|  
-|333|[Largest BST Subtree](https://leetcode-cn.com/problems/largest-bst-subtree/description/) :lock:|Medium|0%|To Do|  
+|333|[Largest BST Subtree](https://leetcode-cn.com/problems/largest-bst-subtree/description/) :lock:|Medium|100%|To Do|  
 |334|[Increasing Triplet Subsequence](https://leetcode-cn.com/problems/increasing-triplet-subsequence/description/) |Medium|34%|To Do|  
 |335|[Self Crossing](https://leetcode-cn.com/problems/self-crossing/description/) |Hard|28%|To Do|  
 |336|[Palindrome Pairs](https://leetcode-cn.com/problems/palindrome-pairs/description/) |Hard|27%|To Do|  
@@ -340,7 +340,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |345|[Reverse Vowels of a String](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/description/) |Easy|47%|To Do|  
 |346|[Moving Average from Data Stream](https://leetcode-cn.com/problems/moving-average-from-data-stream/description/) :lock:|Easy|100%|To Do|  
 |347|[Top K Frequent Elements](https://leetcode-cn.com/problems/top-k-frequent-elements/description/) |Medium|56%|To Do|  
-|348|[Design Tic-Tac-Toe](https://leetcode-cn.com/problems/design-tic-tac-toe/description/) :lock:|Medium|0%|To Do|  
+|348|[Design Tic-Tac-Toe](https://leetcode-cn.com/problems/design-tic-tac-toe/description/) :lock:|Medium|100%|To Do|  
 |349|[Intersection of Two Arrays](https://leetcode-cn.com/problems/intersection-of-two-arrays/description/) |Easy|63%|To Do|  
 |350|[Intersection of Two Arrays II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/description/) |Easy|42%|To Do|  
 |351|[Android Unlock Patterns](https://leetcode-cn.com/problems/android-unlock-patterns/description/) :lock:|Medium|0%|To Do|  
@@ -351,9 +351,9 @@ Note: :lock: means you need to buy a book from LeetCode
 |356|[Line Reflection](https://leetcode-cn.com/problems/line-reflection/description/) :lock:|Medium|12%|To Do|  
 |357|[Count Numbers with Unique Digits](https://leetcode-cn.com/problems/count-numbers-with-unique-digits/description/) |Medium|45%|To Do|  
 |358|[Rearrange String k Distance Apart](https://leetcode-cn.com/problems/rearrange-string-k-distance-apart/description/) :lock:|Hard|0%|To Do|  
-|359|[Logger Rate Limiter](https://leetcode-cn.com/problems/logger-rate-limiter/description/) :lock:|Easy|67%|To Do|  
-|360|[Sort Transformed Array](https://leetcode-cn.com/problems/sort-transformed-array/description/) :lock:|Medium|20%|To Do|  
-|361|[Bomb Enemy](https://leetcode-cn.com/problems/bomb-enemy/description/) :lock:|Medium|60%|To Do|  
+|359|[Logger Rate Limiter](https://leetcode-cn.com/problems/logger-rate-limiter/description/) :lock:|Easy|75%|To Do|  
+|360|[Sort Transformed Array](https://leetcode-cn.com/problems/sort-transformed-array/description/) :lock:|Medium|43%|To Do|  
+|361|[Bomb Enemy](https://leetcode-cn.com/problems/bomb-enemy/description/) :lock:|Medium|30%|To Do|  
 |362|[Design Hit Counter](https://leetcode-cn.com/problems/design-hit-counter/description/) :lock:|Medium|0%|To Do|  
 |363|[Max Sum of Rectangle No Larger Than K](https://leetcode-cn.com/problems/max-sum-of-rectangle-no-larger-than-k/description/) |Hard|33%|To Do|  
 |364|[Nested List Weight Sum II](https://leetcode-cn.com/problems/nested-list-weight-sum-ii/description/) :lock:|Medium|0%|To Do|  
@@ -362,7 +362,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |367|[Valid Perfect Square](https://leetcode-cn.com/problems/valid-perfect-square/description/) |Easy|41%|To Do|  
 |368|[Largest Divisible Subset](https://leetcode-cn.com/problems/largest-divisible-subset/description/) |Medium|33%|To Do|  
 |369|[Plus One Linked List](https://leetcode-cn.com/problems/plus-one-linked-list/description/) :lock:|Medium|73%|To Do|  
-|370|[Range Addition](https://leetcode-cn.com/problems/range-addition/description/) :lock:|Medium|0%|To Do|  
+|370|[Range Addition](https://leetcode-cn.com/problems/range-addition/description/) :lock:|Medium|100%|To Do|  
 |371|[Sum of Two Integers](https://leetcode-cn.com/problems/sum-of-two-integers/description/) |Easy|52%|To Do|  
 |372|[Super Pow](https://leetcode-cn.com/problems/super-pow/description/) |Medium|34%|To Do|  
 |373|[Find K Pairs with Smallest Sums](https://leetcode-cn.com/problems/find-k-pairs-with-smallest-sums/description/) |Medium|36%|To Do|  
@@ -418,7 +418,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |423|[Reconstruct Original Digits from English](https://leetcode-cn.com/problems/reconstruct-original-digits-from-english/description/) |Medium|48%|To Do|  
 |424|[Longest Repeating Character Replacement](https://leetcode-cn.com/problems/longest-repeating-character-replacement/description/) |Medium|36%|To Do|  
 |425|[Word Squares](https://leetcode-cn.com/problems/word-squares/description/) :lock:|Hard|0%|To Do|  
-|432|[All O`one Data Structure](https://leetcode-cn.com/problems/all-oone-data-structure/description/) |Hard|35%|To Do|  
+|432|[All O`one Data Structure](https://leetcode-cn.com/problems/all-oone-data-structure/description/) |Hard|36%|To Do|  
 |433|[Minimum Genetic Mutation](https://leetcode-cn.com/problems/minimum-genetic-mutation/description/) |Medium|40%|To Do|  
 |434|[Number of Segments in a String](https://leetcode-cn.com/problems/number-of-segments-in-a-string/description/) |Easy|31%|To Do|  
 |435|[Non-overlapping Intervals](https://leetcode-cn.com/problems/non-overlapping-intervals/description/) |Medium|41%|To Do|  
@@ -483,7 +483,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |498|[Diagonal Traverse](https://leetcode-cn.com/problems/diagonal-traverse/description/) |Medium|38%|To Do|  
 |499|[The Maze III](https://leetcode-cn.com/problems/the-maze-iii/description/) :lock:|Hard|0%|To Do|  
 |500|[Keyboard Row](https://leetcode-cn.com/problems/keyboard-row/description/) |Easy|66%|To Do|  
-|501|[Find Mode in Binary Search Tree](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/description/) |Easy|42%|To Do|  
+|501|[Find Mode in Binary Search Tree](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/description/) |Easy|41%|To Do|  
 |502|[IPO](https://leetcode-cn.com/problems/ipo/description/) |Hard|36%|To Do|  
 |503|[Next Greater Element II](https://leetcode-cn.com/problems/next-greater-element-ii/description/) |Medium|48%|To Do|  
 |504|[Base 7](https://leetcode-cn.com/problems/base-7/description/) |Easy|44%|To Do|  
@@ -498,7 +498,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |516|[Longest Palindromic Subsequence](https://leetcode-cn.com/problems/longest-palindromic-subsequence/description/) |Medium|45%|To Do|  
 |517|[Super Washing Machines](https://leetcode-cn.com/problems/super-washing-machines/description/) |Hard|35%|To Do|  
 |518|[Coin Change 2](https://leetcode-cn.com/problems/coin-change-2/description/) |Medium|42%|To Do|  
-|520|[Detect Capital](https://leetcode-cn.com/problems/detect-capital/description/) |Easy|52%|To Do|  
+|520|[Detect Capital](https://leetcode-cn.com/problems/detect-capital/description/) |Easy|53%|To Do|  
 |521|[Longest Uncommon Subsequence I ](https://leetcode-cn.com/problems/longest-uncommon-subsequence-i/description/) |Easy|62%|To Do|  
 |522|[Longest Uncommon Subsequence II](https://leetcode-cn.com/problems/longest-uncommon-subsequence-ii/description/) |Medium|28%|To Do|  
 |523|[Continuous Subarray Sum](https://leetcode-cn.com/problems/continuous-subarray-sum/description/) |Medium|23%|To Do|  
@@ -508,7 +508,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |527|[Word Abbreviation](https://leetcode-cn.com/problems/word-abbreviation/description/) :lock:|Hard|0%|To Do|  
 |529|[Minesweeper](https://leetcode-cn.com/problems/minesweeper/description/) |Medium|53%|To Do|  
 |530|[Minimum Absolute Difference in BST](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/description/) |Easy|53%|To Do|  
-|531|[Lonely Pixel I](https://leetcode-cn.com/problems/lonely-pixel-i/description/) :lock:|Medium|0%|To Do|  
+|531|[Lonely Pixel I](https://leetcode-cn.com/problems/lonely-pixel-i/description/) :lock:|Medium|100%|To Do|  
 |532|[K-diff Pairs in an Array](https://leetcode-cn.com/problems/k-diff-pairs-in-an-array/description/) |Easy|32%|To Do|  
 |533|[Lonely Pixel II](https://leetcode-cn.com/problems/lonely-pixel-ii/description/) :lock:|Medium|0%|To Do|  
 |535|[Encode and Decode TinyURL](https://leetcode-cn.com/problems/encode-and-decode-tinyurl/description/) |Medium|79%|To Do|  
@@ -524,13 +524,13 @@ Note: :lock: means you need to buy a book from LeetCode
 |545|[Boundary of Binary Tree](https://leetcode-cn.com/problems/boundary-of-binary-tree/description/) :lock:|Medium|0%|To Do|  
 |546|[Remove Boxes](https://leetcode-cn.com/problems/remove-boxes/description/) |Hard|44%|To Do|  
 |547|[Friend Circles](https://leetcode-cn.com/problems/friend-circles/description/) |Medium|50%|To Do|  
-|548|[Split Array with Equal Sum](https://leetcode-cn.com/problems/split-array-with-equal-sum/description/) :lock:|Medium|0%|To Do|  
+|548|[Split Array with Equal Sum](https://leetcode-cn.com/problems/split-array-with-equal-sum/description/) :lock:|Medium|38%|To Do|  
 |549|[Binary Tree Longest Consecutive Sequence II](https://leetcode-cn.com/problems/binary-tree-longest-consecutive-sequence-ii/description/) :lock:|Medium|0%|To Do|  
 |551|[Student Attendance Record I](https://leetcode-cn.com/problems/student-attendance-record-i/description/) |Easy|47%|To Do|  
 |552|[Student Attendance Record II](https://leetcode-cn.com/problems/student-attendance-record-ii/description/) |Hard|34%|To Do|  
-|553|[Optimal Division](https://leetcode-cn.com/problems/optimal-division/description/) |Medium|51%|To Do|  
+|553|[Optimal Division](https://leetcode-cn.com/problems/optimal-division/description/) |Medium|52%|To Do|  
 |554|[Brick Wall](https://leetcode-cn.com/problems/brick-wall/description/) |Medium|44%|To Do|  
-|555|[Split Concatenated Strings](https://leetcode-cn.com/problems/split-concatenated-strings/description/) :lock:|Medium|0%|To Do|  
+|555|[Split Concatenated Strings](https://leetcode-cn.com/problems/split-concatenated-strings/description/) :lock:|Medium|67%|To Do|  
 |556|[Next Greater Element III](https://leetcode-cn.com/problems/next-greater-element-iii/description/) |Medium|25%|To Do|  
 |557|[Reverse Words in a String III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/description/) |Easy|65%|To Do|  
 |560|[Subarray Sum Equals K](https://leetcode-cn.com/problems/subarray-sum-equals-k/description/) |Medium|37%|To Do|  
@@ -540,9 +540,9 @@ Note: :lock: means you need to buy a book from LeetCode
 |564|[Find the Closest Palindrome](https://leetcode-cn.com/problems/find-the-closest-palindrome/description/) |Hard|11%|To Do|  
 |565|[Array Nesting](https://leetcode-cn.com/problems/array-nesting/description/) |Medium|48%|To Do|  
 |566|[Reshape the Matrix](https://leetcode-cn.com/problems/reshape-the-matrix/description/) |Easy|60%|To Do|  
-|567|[Permutation in String](https://leetcode-cn.com/problems/permutation-in-string/description/) |Medium|31%|To Do|  
+|567|[Permutation in String](https://leetcode-cn.com/problems/permutation-in-string/description/) |Medium|32%|To Do|  
 |568|[Maximum Vacation Days](https://leetcode-cn.com/problems/maximum-vacation-days/description/) :lock:|Hard|0%|To Do|  
-|572|[Subtree of Another Tree](https://leetcode-cn.com/problems/subtree-of-another-tree/description/) |Easy|40%|To Do|  
+|572|[Subtree of Another Tree](https://leetcode-cn.com/problems/subtree-of-another-tree/description/) |Easy|41%|To Do|  
 |573|[Squirrel Simulation](https://leetcode-cn.com/problems/squirrel-simulation/description/) :lock:|Medium|0%|To Do|  
 |575|[Distribute Candies](https://leetcode-cn.com/problems/distribute-candies/description/) |Easy|61%|To Do|  
 |576|[Out of Boundary Paths](https://leetcode-cn.com/problems/out-of-boundary-paths/description/) |Medium|33%|To Do|  
@@ -556,9 +556,9 @@ Note: :lock: means you need to buy a book from LeetCode
 |593|[Valid Square](https://leetcode-cn.com/problems/valid-square/description/) |Medium|38%|To Do|  
 |594|[Longest Harmonious Subsequence](https://leetcode-cn.com/problems/longest-harmonious-subsequence/description/) |Easy|41%|To Do|  
 |598|[Range Addition II](https://leetcode-cn.com/problems/range-addition-ii/description/) |Easy|49%|To Do|  
-|599|[Minimum Index Sum of Two Lists](https://leetcode-cn.com/problems/minimum-index-sum-of-two-lists/description/) |Easy|45%|To Do|  
+|599|[Minimum Index Sum of Two Lists](https://leetcode-cn.com/problems/minimum-index-sum-of-two-lists/description/) |Easy|46%|To Do|  
 |600|[Non-negative Integers without Consecutive Ones](https://leetcode-cn.com/problems/non-negative-integers-without-consecutive-ones/description/) |Hard|25%|To Do|  
-|604|[Design Compressed String Iterator](https://leetcode-cn.com/problems/design-compressed-string-iterator/description/) :lock:|Easy|60%|To Do|  
+|604|[Design Compressed String Iterator](https://leetcode-cn.com/problems/design-compressed-string-iterator/description/) :lock:|Easy|17%|To Do|  
 |605|[Can Place Flowers](https://leetcode-cn.com/problems/can-place-flowers/description/) |Easy|28%|To Do|  
 |606|[Construct String from Binary Tree](https://leetcode-cn.com/problems/construct-string-from-binary-tree/description/) |Easy|50%|To Do|  
 |609|[Find Duplicate File in System](https://leetcode-cn.com/problems/find-duplicate-file-in-system/description/) |Medium|55%|To Do|  
@@ -591,11 +591,11 @@ Note: :lock: means you need to buy a book from LeetCode
 |648|[Replace Words](https://leetcode-cn.com/problems/replace-words/description/) |Medium|50%|To Do|  
 |649|[Dota2 Senate](https://leetcode-cn.com/problems/dota2-senate/description/) |Medium|35%|To Do|  
 |650|[2 Keys Keyboard](https://leetcode-cn.com/problems/2-keys-keyboard/description/) |Medium|42%|To Do|  
-|651|[4 Keys Keyboard](https://leetcode-cn.com/problems/4-keys-keyboard/description/) :lock:|Medium|33%|To Do|  
+|651|[4 Keys Keyboard](https://leetcode-cn.com/problems/4-keys-keyboard/description/) :lock:|Medium|14%|To Do|  
 |652|[Find Duplicate Subtrees](https://leetcode-cn.com/problems/find-duplicate-subtrees/description/) |Medium|49%|To Do|  
 |653|[Two Sum IV - Input is a BST](https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst/description/) |Easy|51%|To Do|  
 |654|[Maximum Binary Tree](https://leetcode-cn.com/problems/maximum-binary-tree/description/) |Medium|74%|To Do|  
-|655|[Print Binary Tree](https://leetcode-cn.com/problems/print-binary-tree/description/) |Medium|49%|To Do|  
+|655|[Print Binary Tree](https://leetcode-cn.com/problems/print-binary-tree/description/) |Medium|48%|To Do|  
 |656|[Coin Path](https://leetcode-cn.com/problems/coin-path/description/) :lock:|Hard|0%|To Do|  
 |657|[Robot Return to Origin](https://leetcode-cn.com/problems/robot-return-to-origin/description/) |Easy|70%|To Do|  
 |658|[Find K Closest Elements](https://leetcode-cn.com/problems/find-k-closest-elements/description/) |Medium|37%|To Do|  
@@ -606,7 +606,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |663|[Equal Tree Partition](https://leetcode-cn.com/problems/equal-tree-partition/description/) :lock:|Medium|0%|To Do|  
 |664|[Strange Printer](https://leetcode-cn.com/problems/strange-printer/description/) |Hard|31%|To Do|  
 |665|[Non-decreasing Array](https://leetcode-cn.com/problems/non-decreasing-array/description/) |Easy|20%|To Do|  
-|666|[Path Sum IV](https://leetcode-cn.com/problems/path-sum-iv/description/) :lock:|Medium|0%|To Do|  
+|666|[Path Sum IV](https://leetcode-cn.com/problems/path-sum-iv/description/) :lock:|Medium|80%|To Do|  
 |667|[Beautiful Arrangement II](https://leetcode-cn.com/problems/beautiful-arrangement-ii/description/) |Medium|53%|To Do|  
 |668|[Kth Smallest Number in Multiplication Table](https://leetcode-cn.com/problems/kth-smallest-number-in-multiplication-table/description/) |Hard|30%|To Do|  
 |669|[Trim a Binary Search Tree](https://leetcode-cn.com/problems/trim-a-binary-search-tree/description/) |Easy|61%|To Do|  
@@ -622,9 +622,9 @@ Note: :lock: means you need to buy a book from LeetCode
 |679|[24 Game](https://leetcode-cn.com/problems/24-game/description/) |Hard|38%|To Do|  
 |680|[Valid Palindrome II](https://leetcode-cn.com/problems/valid-palindrome-ii/description/) |Easy|31%|To Do|  
 |681|[Next Closest Time](https://leetcode-cn.com/problems/next-closest-time/description/) :lock:|Medium|0%|To Do|  
-|682|[Baseball Game](https://leetcode-cn.com/problems/baseball-game/description/) |Easy|62%|To Do|  
+|682|[Baseball Game](https://leetcode-cn.com/problems/baseball-game/description/) |Easy|63%|To Do|  
 |683|[K Empty Slots](https://leetcode-cn.com/problems/k-empty-slots/description/) :lock:|Hard|0%|To Do|  
-|684|[Redundant Connection](https://leetcode-cn.com/problems/redundant-connection/description/) |Medium|49%|To Do|  
+|684|[Redundant Connection](https://leetcode-cn.com/problems/redundant-connection/description/) |Medium|50%|To Do|  
 |685|[Redundant Connection II](https://leetcode-cn.com/problems/redundant-connection-ii/description/) |Hard|28%|To Do|  
 |686|[Repeated String Match](https://leetcode-cn.com/problems/repeated-string-match/description/) |Easy|30%|To Do|  
 |687|[Longest Univalue Path](https://leetcode-cn.com/problems/longest-univalue-path/description/) |Easy|35%|To Do|  
@@ -632,7 +632,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |689|[Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode-cn.com/problems/maximum-sum-of-3-non-overlapping-subarrays/description/) |Hard|40%|To Do|  
 |690|[Employee Importance](https://leetcode-cn.com/problems/employee-importance/description/) |Easy|51%|To Do|  
 |691|[Stickers to Spell Word](https://leetcode-cn.com/problems/stickers-to-spell-word/description/) |Hard|48%|To Do|  
-|692|[Top K Frequent Words](https://leetcode-cn.com/problems/top-k-frequent-words/description/) |Medium|39%|To Do|  
+|692|[Top K Frequent Words](https://leetcode-cn.com/problems/top-k-frequent-words/description/) |Medium|40%|To Do|  
 |693|[Binary Number with Alternating Bits](https://leetcode-cn.com/problems/binary-number-with-alternating-bits/description/) |Easy|59%|To Do|  
 |694|[Number of Distinct Islands](https://leetcode-cn.com/problems/number-of-distinct-islands/description/) :lock:|Medium|0%|To Do|  
 |695|[Max Area of Island](https://leetcode-cn.com/problems/max-area-of-island/description/) |Medium|54%|To Do|  
@@ -645,7 +645,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |713|[Subarray Product Less Than K](https://leetcode-cn.com/problems/subarray-product-less-than-k/description/) |Medium|30%|To Do|  
 |714|[Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/) |Medium|49%|To Do|  
 |715|[Range Module](https://leetcode-cn.com/problems/range-module/description/) |Hard|29%|To Do|  
-|716|[Max Stack](https://leetcode-cn.com/problems/max-stack/description/) :lock:|Easy|25%|To Do|  
+|716|[Max Stack](https://leetcode-cn.com/problems/max-stack/description/) :lock:|Easy|30%|To Do|  
 |717|[1-bit and 2-bit Characters](https://leetcode-cn.com/problems/1-bit-and-2-bit-characters/description/) |Easy|43%|To Do|  
 |718|[Maximum Length of Repeated Subarray](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/description/) |Medium|44%|To Do|  
 |719|[Find K-th Smallest Pair Distance](https://leetcode-cn.com/problems/find-k-th-smallest-pair-distance/description/) |Hard|29%|To Do|  
@@ -670,7 +670,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |738|[Monotone Increasing Digits](https://leetcode-cn.com/problems/monotone-increasing-digits/description/) |Medium|38%|To Do|  
 |739|[Daily Temperatures](https://leetcode-cn.com/problems/daily-temperatures/description/) |Medium|58%|To Do|  
 |740|[Delete and Earn](https://leetcode-cn.com/problems/delete-and-earn/description/) |Medium|47%|To Do|  
-|741|[Cherry Pickup](https://leetcode-cn.com/problems/cherry-pickup/description/) |Hard|25%|To Do|  
+|741|[Cherry Pickup](https://leetcode-cn.com/problems/cherry-pickup/description/) |Hard|26%|To Do|  
 |709|[To Lower Case](https://leetcode-cn.com/problems/to-lower-case/description/) |Easy|73%|To Do|  
 |742|[Closest Leaf in a Binary Tree](https://leetcode-cn.com/problems/closest-leaf-in-a-binary-tree/description/) :lock:|Medium|0%|To Do|  
 |743|[Network Delay Time](https://leetcode-cn.com/problems/network-delay-time/description/) |Medium|43%|To Do|  
@@ -685,7 +685,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |752|[Open the Lock](https://leetcode-cn.com/problems/open-the-lock/description/) |Medium|48%|To Do|  
 |753|[Cracking the Safe](https://leetcode-cn.com/problems/cracking-the-safe/description/) |Hard|47%|To Do|  
 |754|[Reach a Number](https://leetcode-cn.com/problems/reach-a-number/description/) |Easy|37%|To Do|  
-|755|[Pour Water](https://leetcode-cn.com/problems/pour-water/description/) :lock:|Medium|0%|To Do|  
+|755|[Pour Water](https://leetcode-cn.com/problems/pour-water/description/) :lock:|Medium|33%|To Do|  
 |756|[Pyramid Transition Matrix](https://leetcode-cn.com/problems/pyramid-transition-matrix/description/) |Medium|50%|To Do|  
 |426|[Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode-cn.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/description/) :lock:|Medium|36%|To Do|  
 |757|[Set Intersection Size At Least Two](https://leetcode-cn.com/problems/set-intersection-size-at-least-two/description/) |Hard|29%|To Do|  
@@ -716,7 +716,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |701|[Insert into a Binary Search Tree](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/description/) |Medium|64%|To Do|  
 |772|[Basic Calculator III](https://leetcode-cn.com/problems/basic-calculator-iii/description/) :lock:|Hard|0%|To Do|  
 |702|[Search in a Sorted Array of Unknown Size](https://leetcode-cn.com/problems/search-in-a-sorted-array-of-unknown-size/description/) :lock:|Medium|0%|To Do|  
-|773|[Sliding Puzzle](https://leetcode-cn.com/problems/sliding-puzzle/description/) |Hard|55%|To Do|  
+|773|[Sliding Puzzle](https://leetcode-cn.com/problems/sliding-puzzle/description/) |Hard|54%|To Do|  
 |774|[Minimize Max Distance to Gas Station](https://leetcode-cn.com/problems/minimize-max-distance-to-gas-station/description/) :lock:|Hard|0%|To Do|  
 |703|[Kth Largest Element in a Stream](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/description/) |Easy|38%|To Do|  
 |775|[Global and Local Inversions](https://leetcode-cn.com/problems/global-and-local-inversions/description/) |Medium|41%|To Do|  
@@ -732,7 +732,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |784|[Letter Case Permutation](https://leetcode-cn.com/problems/letter-case-permutation/description/) |Easy|55%|To Do|  
 |785|[Is Graph Bipartite?](https://leetcode-cn.com/problems/is-graph-bipartite/description/) |Medium|36%|To Do|  
 |786|[K-th Smallest Prime Fraction](https://leetcode-cn.com/problems/k-th-smallest-prime-fraction/description/) |Hard|29%|To Do|  
-|787|[Cheapest Flights Within K Stops](https://leetcode-cn.com/problems/cheapest-flights-within-k-stops/description/) |Medium|34%|To Do|  
+|787|[Cheapest Flights Within K Stops](https://leetcode-cn.com/problems/cheapest-flights-within-k-stops/description/) |Medium|33%|To Do|  
 |788|[Rotated Digits](https://leetcode-cn.com/problems/rotated-digits/description/) |Easy|55%|To Do|  
 |789|[Escape The Ghosts](https://leetcode-cn.com/problems/escape-the-ghosts/description/) |Medium|58%|To Do|  
 |790|[Domino and Tromino Tiling](https://leetcode-cn.com/problems/domino-and-tromino-tiling/description/) |Medium|33%|To Do|  
@@ -759,7 +759,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |809|[Expressive Words](https://leetcode-cn.com/problems/expressive-words/description/) |Medium|34%|To Do|  
 |810|[Chalkboard XOR Game](https://leetcode-cn.com/problems/chalkboard-xor-game/description/) |Hard|46%|To Do|  
 |811|[Subdomain Visit Count](https://leetcode-cn.com/problems/subdomain-visit-count/description/) |Easy|63%|To Do|  
-|812|[Largest Triangle Area](https://leetcode-cn.com/problems/largest-triangle-area/description/) |Easy|56%|To Do|  
+|812|[Largest Triangle Area](https://leetcode-cn.com/problems/largest-triangle-area/description/) |Easy|57%|To Do|  
 |813|[Largest Sum of Averages](https://leetcode-cn.com/problems/largest-sum-of-averages/description/) |Medium|39%|To Do|  
 |814|[Binary Tree Pruning](https://leetcode-cn.com/problems/binary-tree-pruning/description/) |Medium|69%|To Do|  
 |815|[Bus Routes](https://leetcode-cn.com/problems/bus-routes/description/) |Hard|32%|To Do|  
@@ -771,7 +771,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |820|[Short Encoding of Words](https://leetcode-cn.com/problems/short-encoding-of-words/description/) |Medium|43%|To Do|  
 |821|[Shortest Distance to a Character](https://leetcode-cn.com/problems/shortest-distance-to-a-character/description/) |Easy|63%|To Do|  
 |822|[Card Flipping Game](https://leetcode-cn.com/problems/card-flipping-game/description/) |Medium|41%|To Do|  
-|823|[Binary Trees With Factors](https://leetcode-cn.com/problems/binary-trees-with-factors/description/) |Medium|37%|To Do|  
+|823|[Binary Trees With Factors](https://leetcode-cn.com/problems/binary-trees-with-factors/description/) |Medium|38%|To Do|  
 |708|[Insert into a Cyclic Sorted List](https://leetcode-cn.com/problems/insert-into-a-cyclic-sorted-list/description/) :lock:|Medium|0%|To Do|  
 |824|[Goat Latin](https://leetcode-cn.com/problems/goat-latin/description/) |Easy|55%|To Do|  
 |825|[Friends Of Appropriate Ages](https://leetcode-cn.com/problems/friends-of-appropriate-ages/description/) |Medium|28%|To Do|  
@@ -791,7 +791,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |836|[Rectangle Overlap](https://leetcode-cn.com/problems/rectangle-overlap/description/) |Easy|40%|To Do|  
 |837|[New 21 Game](https://leetcode-cn.com/problems/new-21-game/description/) |Medium|23%|To Do|  
 |838|[Push Dominoes](https://leetcode-cn.com/problems/push-dominoes/description/) |Medium|36%|To Do|  
-|839|[Similar String Groups](https://leetcode-cn.com/problems/similar-string-groups/description/) |Hard|21%|To Do|  
+|839|[Similar String Groups](https://leetcode-cn.com/problems/similar-string-groups/description/) |Hard|22%|To Do|  
 |840|[Magic Squares In Grid](https://leetcode-cn.com/problems/magic-squares-in-grid/description/) |Easy|31%|To Do|  
 |841|[Keys and Rooms](https://leetcode-cn.com/problems/keys-and-rooms/description/) |Medium|55%|To Do|  
 |842|[Split Array into Fibonacci Sequence](https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence/description/) |Medium|30%|To Do|  
@@ -810,7 +810,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |855|[Exam Room](https://leetcode-cn.com/problems/exam-room/description/) |Medium|26%|To Do|  
 |856|[Score of Parentheses](https://leetcode-cn.com/problems/score-of-parentheses/description/) |Medium|51%|To Do|  
 |857|[Minimum Cost to Hire K Workers](https://leetcode-cn.com/problems/minimum-cost-to-hire-k-workers/description/) |Hard|34%|To Do|  
-|858|[Mirror Reflection](https://leetcode-cn.com/problems/mirror-reflection/description/) |Medium|46%|To Do|  
+|858|[Mirror Reflection](https://leetcode-cn.com/problems/mirror-reflection/description/) |Medium|47%|To Do|  
 |859|[Buddy Strings](https://leetcode-cn.com/problems/buddy-strings/description/) |Easy|25%|To Do|  
 |860|[Lemonade Change](https://leetcode-cn.com/problems/lemonade-change/description/) |Easy|50%|To Do|  
 |861|[Score After Flipping Matrix](https://leetcode-cn.com/problems/score-after-flipping-matrix/description/) |Medium|70%|To Do|  
@@ -827,14 +827,14 @@ Note: :lock: means you need to buy a book from LeetCode
 |871|[Minimum Number of Refueling Stops](https://leetcode-cn.com/problems/minimum-number-of-refueling-stops/description/) |Hard|26%|To Do|  
 |470|[Implement Rand10() Using Rand7()](https://leetcode-cn.com/problems/implement-rand10-using-rand7/description/) |Medium|41%|To Do|  
 |872|[Leaf-Similar Trees](https://leetcode-cn.com/problems/leaf-similar-trees/description/) |Easy|58%|To Do|  
-|873|[Length of Longest Fibonacci Subsequence](https://leetcode-cn.com/problems/length-of-longest-fibonacci-subsequence/description/) |Medium|41%|To Do|  
+|873|[Length of Longest Fibonacci Subsequence](https://leetcode-cn.com/problems/length-of-longest-fibonacci-subsequence/description/) |Medium|42%|To Do|  
 |874|[Walking Robot Simulation](https://leetcode-cn.com/problems/walking-robot-simulation/description/) |Easy|28%|To Do|  
 |875|[Koko Eating Bananas](https://leetcode-cn.com/problems/koko-eating-bananas/description/) |Medium|36%|To Do|  
 |876|[Middle of the Linked List](https://leetcode-cn.com/problems/middle-of-the-linked-list/description/) |Easy|60%|To Do|  
 |877|[Stone Game](https://leetcode-cn.com/problems/stone-game/description/) |Medium|63%|To Do|  
 |878|[Nth Magical Number](https://leetcode-cn.com/problems/nth-magical-number/description/) |Hard|17%|To Do|  
-|879|[Profitable Schemes](https://leetcode-cn.com/problems/profitable-schemes/description/) |Hard|22%|To Do|  
-|528|[Random Pick with Weight](https://leetcode-cn.com/problems/random-pick-with-weight/description/) |Medium|35%|To Do|  
+|879|[Profitable Schemes](https://leetcode-cn.com/problems/profitable-schemes/description/) |Hard|23%|To Do|  
+|528|[Random Pick with Weight](https://leetcode-cn.com/problems/random-pick-with-weight/description/) |Medium|36%|To Do|  
 |519|[Random Flip Matrix](https://leetcode-cn.com/problems/random-flip-matrix/description/) |Medium|30%|To Do|  
 |497|[Random Point in Non-overlapping Rectangles](https://leetcode-cn.com/problems/random-point-in-non-overlapping-rectangles/description/) |Medium|32%|To Do|  
 |478|[Generate Random Point in a Circle](https://leetcode-cn.com/problems/generate-random-point-in-a-circle/description/) |Medium|33%|To Do|  
@@ -873,15 +873,15 @@ Note: :lock: means you need to buy a book from LeetCode
 |912|[Sort an Array](https://leetcode-cn.com/problems/sort-an-array/description/) |Medium|56%|To Do|  
 |913|[Cat and Mouse](https://leetcode-cn.com/problems/cat-and-mouse/description/) |Hard|21%|To Do|  
 |914|[X of a Kind in a Deck of Cards](https://leetcode-cn.com/problems/x-of-a-kind-in-a-deck-of-cards/description/) |Easy|30%|To Do|  
-|915|[Partition Array into Disjoint Intervals](https://leetcode-cn.com/problems/partition-array-into-disjoint-intervals/description/) |Medium|38%|To Do|  
+|915|[Partition Array into Disjoint Intervals](https://leetcode-cn.com/problems/partition-array-into-disjoint-intervals/description/) |Medium|39%|To Do|  
 |916|[Word Subsets](https://leetcode-cn.com/problems/word-subsets/description/) |Medium|34%|To Do|  
-|917|[Reverse Only Letters](https://leetcode-cn.com/problems/reverse-only-letters/description/) |Easy|47%|To Do|  
+|917|[Reverse Only Letters](https://leetcode-cn.com/problems/reverse-only-letters/description/) |Easy|48%|To Do|  
 |918|[Maximum Sum Circular Subarray](https://leetcode-cn.com/problems/maximum-sum-circular-subarray/description/) |Medium|24%|To Do|  
 |919|[Complete Binary Tree Inserter](https://leetcode-cn.com/problems/complete-binary-tree-inserter/description/) |Medium|43%|To Do|  
 |920|[Number of Music Playlists](https://leetcode-cn.com/problems/number-of-music-playlists/description/) |Hard|35%|To Do|  
 |921|[Minimum Add to Make Parentheses Valid](https://leetcode-cn.com/problems/minimum-add-to-make-parentheses-valid/description/) |Medium|65%|To Do|  
 |922|[Sort Array By Parity II](https://leetcode-cn.com/problems/sort-array-by-parity-ii/description/) |Easy|64%|To Do|  
-|923|[3Sum With Multiplicity](https://leetcode-cn.com/problems/3sum-with-multiplicity/description/) |Medium|27%|To Do|  
+|923|[3Sum With Multiplicity](https://leetcode-cn.com/problems/3sum-with-multiplicity/description/) |Medium|28%|To Do|  
 |924|[Minimize Malware Spread](https://leetcode-cn.com/problems/minimize-malware-spread/description/) |Hard|39%|To Do|  
 |925|[Long Pressed Name](https://leetcode-cn.com/problems/long-pressed-name/description/) |Easy|42%|To Do|  
 |926|[Flip String to Monotone Increasing](https://leetcode-cn.com/problems/flip-string-to-monotone-increasing/description/) |Medium|39%|To Do|  
@@ -890,7 +890,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |929|[Unique Email Addresses](https://leetcode-cn.com/problems/unique-email-addresses/description/) |Easy|66%|To Do|  
 |930|[Binary Subarrays With Sum](https://leetcode-cn.com/problems/binary-subarrays-with-sum/description/) |Medium|30%|To Do|  
 |931|[Minimum Falling Path Sum](https://leetcode-cn.com/problems/minimum-falling-path-sum/description/) |Medium|53%|To Do|  
-|932|[Beautiful Array](https://leetcode-cn.com/problems/beautiful-array/description/) |Medium|51%|To Do|  
+|932|[Beautiful Array](https://leetcode-cn.com/problems/beautiful-array/description/) |Medium|50%|To Do|  
 |933|[Number of Recent Calls](https://leetcode-cn.com/problems/number-of-recent-calls/description/) |Easy|66%|To Do|  
 |934|[Shortest Bridge](https://leetcode-cn.com/problems/shortest-bridge/description/) |Medium|40%|To Do|  
 |935|[Knight Dialer](https://leetcode-cn.com/problems/knight-dialer/description/) |Medium|32%|To Do|  
@@ -905,17 +905,17 @@ Note: :lock: means you need to buy a book from LeetCode
 |944|[Delete Columns to Make Sorted](https://leetcode-cn.com/problems/delete-columns-to-make-sorted/description/) |Easy|66%|To Do|  
 |945|[Minimum Increment to Make Array Unique](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/description/) |Medium|39%|To Do|  
 |946|[Validate Stack Sequences](https://leetcode-cn.com/problems/validate-stack-sequences/description/) |Medium|50%|To Do|  
-|947|[Most Stones Removed with Same Row or Column](https://leetcode-cn.com/problems/most-stones-removed-with-same-row-or-column/description/) |Medium|42%|To Do|  
+|947|[Most Stones Removed with Same Row or Column](https://leetcode-cn.com/problems/most-stones-removed-with-same-row-or-column/description/) |Medium|43%|To Do|  
 |948|[Bag of Tokens](https://leetcode-cn.com/problems/bag-of-tokens/description/) |Medium|31%|To Do|  
 |949|[Largest Time for Given Digits](https://leetcode-cn.com/problems/largest-time-for-given-digits/description/) |Easy|30%|To Do|  
 |950|[Reveal Cards In Increasing Order](https://leetcode-cn.com/problems/reveal-cards-in-increasing-order/description/) |Medium|76%|To Do|  
-|951|[Flip Equivalent Binary Trees](https://leetcode-cn.com/problems/flip-equivalent-binary-trees/description/) |Medium|55%|To Do|  
+|951|[Flip Equivalent Binary Trees](https://leetcode-cn.com/problems/flip-equivalent-binary-trees/description/) |Medium|56%|To Do|  
 |952|[Largest Component Size by Common Factor](https://leetcode-cn.com/problems/largest-component-size-by-common-factor/description/) |Hard|22%|To Do|  
 |953|[Verifying an Alien Dictionary](https://leetcode-cn.com/problems/verifying-an-alien-dictionary/description/) |Easy|54%|To Do|  
 |954|[Array of Doubled Pairs](https://leetcode-cn.com/problems/array-of-doubled-pairs/description/) |Medium|25%|To Do|  
 |955|[Delete Columns to Make Sorted II](https://leetcode-cn.com/problems/delete-columns-to-make-sorted-ii/description/) |Medium|25%|To Do|  
 |956|[Tallest Billboard](https://leetcode-cn.com/problems/tallest-billboard/description/) |Hard|31%|To Do|  
-|957|[Prison Cells After N Days](https://leetcode-cn.com/problems/prison-cells-after-n-days/description/) |Medium|30%|To Do|  
+|957|[Prison Cells After N Days](https://leetcode-cn.com/problems/prison-cells-after-n-days/description/) |Medium|31%|To Do|  
 |958|[Check Completeness of a Binary Tree](https://leetcode-cn.com/problems/check-completeness-of-a-binary-tree/description/) |Medium|42%|To Do|  
 |959|[Regions Cut By Slashes](https://leetcode-cn.com/problems/regions-cut-by-slashes/description/) |Medium|58%|To Do|  
 |960|[Delete Columns to Make Sorted III](https://leetcode-cn.com/problems/delete-columns-to-make-sorted-iii/description/) |Hard|46%|To Do|  
@@ -927,7 +927,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |966|[Vowel Spellchecker](https://leetcode-cn.com/problems/vowel-spellchecker/description/) |Medium|37%|To Do|  
 |967|[Numbers With Same Consecutive Differences](https://leetcode-cn.com/problems/numbers-with-same-consecutive-differences/description/) |Medium|32%|To Do|  
 |968|[Binary Tree Cameras](https://leetcode-cn.com/problems/binary-tree-cameras/description/) |Hard|33%|To Do|  
-|969|[Pancake Sorting](https://leetcode-cn.com/problems/pancake-sorting/description/) |Medium|58%|To Do|  
+|969|[Pancake Sorting](https://leetcode-cn.com/problems/pancake-sorting/description/) |Medium|59%|To Do|  
 |970|[Powerful Integers](https://leetcode-cn.com/problems/powerful-integers/description/) |Easy|37%|To Do|  
 |971|[Flip Binary Tree To Match Preorder Traversal](https://leetcode-cn.com/problems/flip-binary-tree-to-match-preorder-traversal/description/) |Medium|39%|To Do|  
 |972|[Equal Rational Numbers](https://leetcode-cn.com/problems/equal-rational-numbers/description/) |Hard|39%|To Do|  
@@ -939,7 +939,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |977|[Squares of a Sorted Array](https://leetcode-cn.com/problems/squares-of-a-sorted-array/description/) |Easy|71%|To Do|  
 |978|[Longest Turbulent Subarray](https://leetcode-cn.com/problems/longest-turbulent-subarray/description/) |Medium|36%|To Do|  
 |979|[Distribute Coins in Binary Tree](https://leetcode-cn.com/problems/distribute-coins-in-binary-tree/description/) |Medium|64%|To Do|  
-|980|[Unique Paths III](https://leetcode-cn.com/problems/unique-paths-iii/description/) |Hard|70%|To Do|  
+|980|[Unique Paths III](https://leetcode-cn.com/problems/unique-paths-iii/description/) |Hard|69%|To Do|  
 |981|[Time Based Key-Value Store](https://leetcode-cn.com/problems/time-based-key-value-store/description/) |Medium|32%|To Do|  
 |982|[Triples with Bitwise AND Equal To Zero](https://leetcode-cn.com/problems/triples-with-bitwise-and-equal-to-zero/description/) |Hard|41%|To Do|  
 |983|[Minimum Cost For Tickets](https://leetcode-cn.com/problems/minimum-cost-for-tickets/description/) |Medium|49%|To Do|  
@@ -949,7 +949,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |987|[Vertical Order Traversal of a Binary Tree](https://leetcode-cn.com/problems/vertical-order-traversal-of-a-binary-tree/description/) |Medium|32%|To Do|  
 |988|[Smallest String Starting From Leaf](https://leetcode-cn.com/problems/smallest-string-starting-from-leaf/description/) |Medium|38%|To Do|  
 |989|[Add to Array-Form of Integer](https://leetcode-cn.com/problems/add-to-array-form-of-integer/description/) |Easy|42%|To Do|  
-|990|[Satisfiability of Equality Equations](https://leetcode-cn.com/problems/satisfiability-of-equality-equations/description/) |Medium|33%|To Do|  
+|990|[Satisfiability of Equality Equations](https://leetcode-cn.com/problems/satisfiability-of-equality-equations/description/) |Medium|34%|To Do|  
 |991|[Broken Calculator](https://leetcode-cn.com/problems/broken-calculator/description/) |Medium|49%|To Do|  
 |992|[Subarrays with K Different Integers](https://leetcode-cn.com/problems/subarrays-with-k-different-integers/description/) |Hard|26%|To Do|  
 |993|[Cousins in Binary Tree](https://leetcode-cn.com/problems/cousins-in-binary-tree/description/) |Easy|46%|To Do|  
@@ -976,14 +976,14 @@ Note: :lock: means you need to buy a book from LeetCode
 |1014|[Best Sightseeing Pair](https://leetcode-cn.com/problems/best-sightseeing-pair/description/) |Medium|33%|To Do|  
 |1015|[Smallest Integer Divisible by K](https://leetcode-cn.com/problems/smallest-integer-divisible-by-k/description/) |Medium|22%|To Do|  
 |1016|[Binary String With Substrings Representing 1 To N](https://leetcode-cn.com/problems/binary-string-with-substrings-representing-1-to-n/description/) |Medium|53%|To Do|  
-|1017|[Convert to Base -2](https://leetcode-cn.com/problems/convert-to-base-2/description/) |Medium|45%|To Do|  
-|1018|[Binary Prefix Divisible By 5](https://leetcode-cn.com/problems/binary-prefix-divisible-by-5/description/) |Easy|36%|To Do|  
-|1019|[Next Greater Node In Linked List](https://leetcode-cn.com/problems/next-greater-node-in-linked-list/description/) |Medium|38%|To Do|  
+|1017|[Convert to Base -2](https://leetcode-cn.com/problems/convert-to-base-2/description/) |Medium|44%|To Do|  
+|1018|[Binary Prefix Divisible By 5](https://leetcode-cn.com/problems/binary-prefix-divisible-by-5/description/) |Easy|37%|To Do|  
+|1019|[Next Greater Node In Linked List](https://leetcode-cn.com/problems/next-greater-node-in-linked-list/description/) |Medium|39%|To Do|  
 |1020|[Number of Enclaves](https://leetcode-cn.com/problems/number-of-enclaves/description/) |Medium|42%|To Do|  
 |1021|[Remove Outermost Parentheses](https://leetcode-cn.com/problems/remove-outermost-parentheses/description/) |Easy|75%|To Do|  
 |1022|[Sum of Root To Leaf Binary Numbers](https://leetcode-cn.com/problems/sum-of-root-to-leaf-binary-numbers/description/) |Easy|33%|To Do|  
 |1023|[Camelcase Matching](https://leetcode-cn.com/problems/camelcase-matching/description/) |Medium|47%|To Do|  
-|1024|[Video Stitching](https://leetcode-cn.com/problems/video-stitching/description/) |Medium|44%|To Do|  
+|1024|[Video Stitching](https://leetcode-cn.com/problems/video-stitching/description/) |Medium|43%|To Do|  
 |1025|[Divisor Game](https://leetcode-cn.com/problems/divisor-game/description/) |Easy|63%|To Do|  
 |1027|[Longest Arithmetic Sequence](https://leetcode-cn.com/problems/longest-arithmetic-sequence/description/) |Medium|29%|To Do|  
 |1026|[Maximum Difference Between Node and Ancestor](https://leetcode-cn.com/problems/maximum-difference-between-node-and-ancestor/description/) |Medium|45%|To Do|  
@@ -994,14 +994,14 @@ Note: :lock: means you need to buy a book from LeetCode
 |1032|[Stream of Characters](https://leetcode-cn.com/problems/stream-of-characters/description/) |Hard|20%|To Do|  
 |1033|[Moving Stones Until Consecutive](https://leetcode-cn.com/problems/moving-stones-until-consecutive/description/) |Easy|32%|To Do|  
 |1034|[Coloring A Border](https://leetcode-cn.com/problems/coloring-a-border/description/) |Medium|33%|To Do|  
-|1035|[Uncrossed Lines](https://leetcode-cn.com/problems/uncrossed-lines/description/) |Medium|39%|To Do|  
+|1035|[Uncrossed Lines](https://leetcode-cn.com/problems/uncrossed-lines/description/) |Medium|40%|To Do|  
 |1036|[Escape a Large Maze](https://leetcode-cn.com/problems/escape-a-large-maze/description/) |Hard|27%|To Do|  
 |1039|[Minimum Score Triangulation of Polygon](https://leetcode-cn.com/problems/minimum-score-triangulation-of-polygon/description/) |Medium|32%|To Do|  
 |1040|[Moving Stones Until Consecutive II](https://leetcode-cn.com/problems/moving-stones-until-consecutive-ii/description/) |Medium|40%|To Do|  
-|1038|[Binary Search Tree to Greater Sum Tree](https://leetcode-cn.com/problems/binary-search-tree-to-greater-sum-tree/description/) |Medium|73%|To Do|  
+|1038|[Binary Search Tree to Greater Sum Tree](https://leetcode-cn.com/problems/binary-search-tree-to-greater-sum-tree/description/) |Medium|74%|To Do|  
 |1037|[Valid Boomerang](https://leetcode-cn.com/problems/valid-boomerang/description/) |Easy|37%|To Do|  
 |1041|[Robot Bounded In Circle](https://leetcode-cn.com/problems/robot-bounded-in-circle/description/) |Easy|34%|To Do|  
-|1042|[Flower Planting With No Adjacent](https://leetcode-cn.com/problems/flower-planting-with-no-adjacent/description/) |Easy|34%|To Do|  
-|1043|[Partition Array for Maximum Sum](https://leetcode-cn.com/problems/partition-array-for-maximum-sum/description/) |Medium|48%|To Do|  
-|1044|[Longest Duplicate Substring](https://leetcode-cn.com/problems/longest-duplicate-substring/description/) |Hard|14%|To Do|  
-|1049|[Last Stone Weight II](https://leetcode-cn.com/problems/last-stone-weight-ii/description/) |Medium|25%|To Do|  
+|1042|[Flower Planting With No Adjacent](https://leetcode-cn.com/problems/flower-planting-with-no-adjacent/description/) |Easy|35%|To Do|  
+|1043|[Partition Array for Maximum Sum](https://leetcode-cn.com/problems/partition-array-for-maximum-sum/description/) |Medium|49%|To Do|  
+|1044|[Longest Duplicate Substring](https://leetcode-cn.com/problems/longest-duplicate-substring/description/) |Hard|15%|To Do|  
+|1049|[Last Stone Weight II](https://leetcode-cn.com/problems/last-stone-weight-ii/description/) |Medium|27%|To Do|  
