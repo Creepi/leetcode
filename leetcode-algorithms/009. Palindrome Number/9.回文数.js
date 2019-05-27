@@ -8,30 +8,25 @@
  * @return {boolean}
  */
 var isPalindrome = function(x) {
-  if (x < 0) return false;
-  if (x < 10 || 0) return true;
-  let result = 0;
-  for (let i = 0; i < 15; i++) {
-    if (x < Math.pow(10, i)) {
-      const x_length = i;
-      const x_odd = i % 2;
-      const index_max = x_length - 1; // index边界
-      const index_half = Math.floor(x_length / 2);
-      let x_calc = x;
-      for (let j = index_max; j >= index_half; j--) {
-        const edge = Math.pow(10, j);
-        if (x_calc < edge) continue;
-        const num_current = parseInt(x_calc / edge);
-        if (j === index_half && x_odd) {
-          result += num_current * edge;
-        } else {
-          result +=
-            num_current * edge + num_current * Math.pow(10, index_max - j);
-        }
-        x_calc = x_calc - num_current * edge;
-      }
-      break;
+  if (x >= 0) {
+    let len = 1; 
+    let x_left = 0;
+    let x_right = 0;
+    while (x / len > 10) { //（排除10*n的情况拿不到右边的值）
+      len *= 10;
     }
+    while (x > 0) {
+      x_left = Math.trunc(x/len)
+      x_right = x % 10
+      if(x_left !== x_right){
+        return false
+      }else{
+        x = Math.trunc((x%len)/10) // 去除左右两边各一位
+        len /= 100
+      }
+    }
+    return true
+  } else {
+    return false;
   }
-  return result === x;
 };
